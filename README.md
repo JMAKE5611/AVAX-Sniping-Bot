@@ -35,4 +35,4 @@ Stop bot with Ctrl + C.
 
 Successfull 40,000k snipe the other day :)
 
-![Successfull snipe](success.png)
+![Successfull snipe](success.jpeg)
