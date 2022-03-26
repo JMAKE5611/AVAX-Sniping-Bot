@@ -25,14 +25,14 @@ Working on:
 
 # HOW TO RUN
 
-Download swapbot.js and package.json
-Download nodejs for your PC from nodejs org
-Open the folder in Visual Studio Code and in the terminal type "npm install"
-Set the variables in "Variables" at the top of swapbot.js
-Input enough funds for fees and purchases into your wallet
-Run with "node swapbot.js" command in the same terminal
-Free node included!
-Stop bot with Ctrl + C.
+1. Download swapbot.js and package.json
+2. Download nodejs for your PC from nodejs org
+3. Open the folder in Visual Studio Code and in the terminal type "npm install"
+4. Set the variables in "Variables" at the top of swapbot.js
+5. Input enough funds for fees and purchases into your wallet
+6. Run with "node swapbot.js" command in the same terminal
+7. Free node included!
+8. Stop bot with Ctrl + C.
 
 Successfull 40,000k snipe the other day :)
 
